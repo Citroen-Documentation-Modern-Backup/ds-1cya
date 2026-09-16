@@ -1,0 +1,18 @@
+{
+ "ref": "012001334450A",
+ "refDisplay": "0120 01 334450A",
+ "title": "LIGNE SECONDAIRE BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6 ET BVM MCB ET CP 16 X 57",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FAW",
+   "fctId": "FCT0017"
+  }
+ ]
+}

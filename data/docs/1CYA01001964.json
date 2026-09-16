@@ -1,0 +1,24 @@
+{
+ "ref": "1CYA01001964",
+ "refDisplay": "1CYA 0 100 1964",
+ "title": "ECHANGEUR HUILE EAU SUR BVA",
+ "nature": "",
+ "applicability": "(Q002) DS3 BERLINE 3PTES INJECTION EP6C BVA AL4",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0017"
+  }
+ ]
+}

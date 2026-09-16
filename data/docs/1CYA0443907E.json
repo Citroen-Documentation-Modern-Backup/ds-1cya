@@ -1,0 +1,34 @@
+{
+ "ref": "1CYA0443907E",
+ "refDisplay": "1CYA 0 443 907E",
+ "title": "GARNITURE LATERALE DE PAVILLON",
+ "nature": "",
+ "applicability": "(Q00I) DS3 BERLINE DECOUVRABLE 3 PORTES INJECTION EB2 BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCG",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCC",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0235"
+  }
+ ]
+}

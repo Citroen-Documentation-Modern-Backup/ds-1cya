@@ -1,0 +1,18 @@
+{
+ "ref": "012001312050A",
+ "refDisplay": "0120 01 312050A",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM MA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0016"
+  }
+ ]
+}

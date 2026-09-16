@@ -1,0 +1,40 @@
+{
+ "ref": "B1GI011EP0",
+ "refDisplay": "B1GI011EP0",
+ "title": "Vidange - remplissage - purge : circuit de refroidissement",
+ "nature": "Vidange - remplissage - purge",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCB",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0009"
+  }
+ ]
+}

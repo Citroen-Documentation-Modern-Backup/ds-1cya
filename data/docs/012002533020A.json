@@ -1,0 +1,18 @@
+{
+ "ref": "012002533020A",
+ "refDisplay": "0120 02 533020A",
+ "title": "DEMARREUR FIXATIONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FAW",
+   "fctId": "FCT0302"
+  }
+ ]
+}

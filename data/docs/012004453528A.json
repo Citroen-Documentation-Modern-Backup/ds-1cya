@@ -1,0 +1,23 @@
+{
+ "ref": "012004453528A",
+ "refDisplay": "0120 04 453528A",
+ "title": "MAITRE CYLINDRE RESERVOIR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13342 OU  JUSQU’A OPR 12998",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FAX",
+   "fctId": "FCT0045"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FAX",
+   "fctId": "FCT0045"
+  }
+ ]
+}

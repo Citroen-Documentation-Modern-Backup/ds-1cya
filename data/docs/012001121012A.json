@@ -1,0 +1,23 @@
+{
+ "ref": "012001121012A",
+ "refDisplay": "0120 01 121012A",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "BVA AL4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0005"
+  }
+ ]
+}

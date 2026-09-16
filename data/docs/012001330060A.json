@@ -1,0 +1,18 @@
+{
+ "ref": "012001330060A",
+ "refDisplay": "0120 01 330060A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE ET BVM PILOTEE 5 RAPPORTS STT ET CP 17 X 64",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0017"
+  }
+ ]
+}

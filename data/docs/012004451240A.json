@@ -1,0 +1,23 @@
+{
+ "ref": "012004451240A",
+ "refDisplay": "0120 04 451240A",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12270",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0040"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "ref": "1CYA04684903",
+ "refDisplay": "1CYA 0 468 4903",
+ "title": "SUPPORT DE COMPRESSEUR",
+ "nature": "",
+ "applicability": "(Q00H) DS3 BERLINE 3PTES INJECTION EB2 BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCG",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCB",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCT",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FAW",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCC",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCL",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FAX",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCG",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCC",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0347"
+  }
+ ]
+}

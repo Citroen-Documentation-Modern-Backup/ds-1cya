@@ -1,0 +1,20 @@
+{
+ "ref": "B1HG01QWP0",
+ "refDisplay": "B1HG01QWP0",
+ "title": "Dépose - repose : capteur de température d’air d’admission",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ref": "B1BB0169P0",
+ "refDisplay": "B1BB0169P0",
+ "title": "Identification  - caractéristiques : moteurs DV6C et DV6DTED",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0049"
+  }
+ ]
+}

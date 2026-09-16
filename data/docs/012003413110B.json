@@ -1,0 +1,183 @@
+{
+ "ref": "012003413110B",
+ "refDisplay": "0120 03 413110B",
+ "title": "PIVOTS MOYEUX ROULEMENTS TRAIN AV",
+ "nature": "",
+ "applicability": "PIVOT ROUE DIAMETRE 82 DEPUIS OPR 13188",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCG",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCB",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCT",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FS3",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FS1",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0F3N",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBW",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FAW",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCC",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCL",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FKH",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FAX",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FLA",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FKD",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FKE",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FKM",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCQ",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FKQ",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCG",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCC",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FKH",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FAX",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FLA",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FKD",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FKE",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCQ",
+   "fctId": "FCT0026"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FKQ",
+   "fctId": "FCT0026"
+  }
+ ]
+}

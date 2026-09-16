@@ -1,0 +1,19 @@
+{
+ "ref": "1CYA0271587",
+ "refDisplay": "1CYA 0 27 1587",
+ "title": "CAPTEUR HAUTE PRESSION CARBURANT",
+ "nature": "",
+ "applicability": "(Q00D) DS3 BERLINE 3PTES DIESEL TURBO DV6C BVM 6 RAPPORTS TYPE STT OU (Q006) DS3 BERLINE 3PTES DIESEL TURBO DV6C BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0010"
+  }
+ ]
+}

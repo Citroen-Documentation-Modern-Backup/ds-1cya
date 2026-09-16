@@ -1,0 +1,18 @@
+{
+ "ref": "012001348051M",
+ "refDisplay": "0120 01 348051M",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0049"
+  }
+ ]
+}

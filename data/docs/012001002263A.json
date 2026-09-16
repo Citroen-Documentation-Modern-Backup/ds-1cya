@@ -1,0 +1,23 @@
+{
+ "ref": "012001002263A",
+ "refDisplay": "0120 01 002263A",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12354",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0049"
+  }
+ ]
+}

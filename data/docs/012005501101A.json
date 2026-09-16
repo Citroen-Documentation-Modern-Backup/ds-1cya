@@ -1,0 +1,43 @@
+{
+ "ref": "012005501101A",
+ "refDisplay": "0120 05 501101A",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0F7P",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0F3N",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "012004451610A",
+ "refDisplay": "0120 04 451610A",
+ "title": "FREINS ARRIERE DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12270",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0041"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "012006235551A",
+ "refDisplay": "0120 06 235551A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "RADIATEUR EP:27 - 16 DM2 ALU BRASE SS MEC",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0009"
+  }
+ ]
+}

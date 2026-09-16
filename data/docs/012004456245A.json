@@ -1,0 +1,18 @@
+{
+ "ref": "012004456245A",
+ "refDisplay": "0120 04 456245A",
+ "title": "AMPLIFICATEUR DE FREINAGE RACCORDS",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12998 OU  DEPUIS OPR 13342",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0044"
+  }
+ ]
+}

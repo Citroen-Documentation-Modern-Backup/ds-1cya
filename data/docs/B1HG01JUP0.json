@@ -1,0 +1,65 @@
+{
+ "ref": "B1HG01JUP0",
+ "refDisplay": "B1HG01JUP0",
+ "title": "Dépose - repose : répartiteur d’admission d’air",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCB",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCB",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0010"
+  }
+ ]
+}

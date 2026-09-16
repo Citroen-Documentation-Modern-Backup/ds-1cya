@@ -1,0 +1,18 @@
+{
+ "ref": "012001330046A",
+ "refDisplay": "0120 01 330046A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM MC ET BVM 6 RAPPORTS TYPE STT ET BVM MCE ET CP 17 X 58 DEPUIS OPR 12684",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

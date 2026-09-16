@@ -1,0 +1,24 @@
+{
+ "ref": "1CYA06001912",
+ "refDisplay": "1CYA 0 600 1912",
+ "title": "CARTER HUILE",
+ "nature": "",
+ "applicability": "(Q002) DS3 BERLINE 3PTES INJECTION EP6C BVA AL4",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCA",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FCA",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "012004456305A",
+ "refDisplay": "0120 04 456305A",
+ "title": "POMPE A VIDE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12162",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCB",
+   "fctId": "FCT0044"
+  }
+ ]
+}

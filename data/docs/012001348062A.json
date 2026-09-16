@@ -1,0 +1,23 @@
+{
+ "ref": "012001348062A",
+ "refDisplay": "0120 01 348062A",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "BVM BE4R",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0049"
+  }
+ ]
+}

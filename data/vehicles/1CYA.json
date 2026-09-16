@@ -1,0 +1,399 @@
+{
+ "ldp": "1CYA",
+ "label": "DS3",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA3",
+     "lib": "BERLINE 3PTES"
+    },
+    {
+     "val": "B0DB3",
+     "lib": "BERLINE DECOUVRABLE 3 PORTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FCG",
+     "lib": "1.2 i VTi (EB2)"
+    },
+    {
+     "val": "B0FBD",
+     "lib": "1.4 HDi"
+    },
+    {
+     "val": "B0F7P",
+     "lib": "1.4 HDi 70"
+    },
+    {
+     "val": "B0FCB",
+     "lib": "1.4 VTi 16v 95"
+    },
+    {
+     "val": "B0FCT",
+     "lib": "1.4 VTi 16v 95 GPL"
+    },
+    {
+     "val": "B0FS3",
+     "lib": "1.4 i (TU3AE5)"
+    },
+    {
+     "val": "B0FS1",
+     "lib": "1.4 i 75 (TU3A)"
+    },
+    {
+     "val": "B0FBM",
+     "lib": "1.6 HDI (DV6C)"
+    },
+    {
+     "val": "B0F3N",
+     "lib": "1.6 HDi 92 (DV6ATED4)"
+    },
+    {
+     "val": "B0FBW",
+     "lib": "1.6 HDi 92 (DV6DTED M)"
+    },
+    {
+     "val": "B0FBF",
+     "lib": "1.6 HDi 92 (DV6DTED)"
+    },
+    {
+     "val": "B0FAW",
+     "lib": "1.6 THP 16v 150"
+    },
+    {
+     "val": "B0FCC",
+     "lib": "1.6 THP 16v 156"
+    },
+    {
+     "val": "B0FCL",
+     "lib": "1.6 THP 16v 163 (EP6CDT M)"
+    },
+    {
+     "val": "B0FKH",
+     "lib": "1.6 THP 16v 163 (EP6FDT)"
+    },
+    {
+     "val": "B0FAX",
+     "lib": "1.6 THP 16v 200"
+    },
+    {
+     "val": "B0FCA",
+     "lib": "1.6 VTi 16v 120"
+    },
+    {
+     "val": "B0FLA",
+     "lib": "DIESEL TURBO DV6FC FAP 85KW"
+    },
+    {
+     "val": "B0FKD",
+     "lib": "DIESEL TURBO DV6FC FAP 88KW"
+    },
+    {
+     "val": "B0FKE",
+     "lib": "DIESEL TURBO DV6FD FAP"
+    },
+    {
+     "val": "B0FKM",
+     "lib": "DIESEL TURBO DV6FE FAP"
+    },
+    {
+     "val": "B0FCQ",
+     "lib": "INJECTION EB2DT"
+    },
+    {
+     "val": "B0FKQ",
+     "lib": "INJECTION EB2F"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA3&B0F=B0FCG",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FCG"
+   },
+   "label": "BERLINE 3PTES · 1.2 i VTi (EB2)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FBD",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FBD"
+   },
+   "label": "BERLINE 3PTES · 1.4 HDi"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F7P",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F7P"
+   },
+   "label": "BERLINE 3PTES · 1.4 HDi 70"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FCB",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FCB"
+   },
+   "label": "BERLINE 3PTES · 1.4 VTi 16v 95"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FCT",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FCT"
+   },
+   "label": "BERLINE 3PTES · 1.4 VTi 16v 95 GPL"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FS3",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FS3"
+   },
+   "label": "BERLINE 3PTES · 1.4 i (TU3AE5)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FS1"
+   },
+   "label": "BERLINE 3PTES · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FBM"
+   },
+   "label": "BERLINE 3PTES · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0F3N"
+   },
+   "label": "BERLINE 3PTES · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FBW"
+   },
+   "label": "BERLINE 3PTES · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FBF"
+   },
+   "label": "BERLINE 3PTES · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FAW",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FAW"
+   },
+   "label": "BERLINE 3PTES · 1.6 THP 16v 150"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FCC"
+   },
+   "label": "BERLINE 3PTES · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FCL",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FCL"
+   },
+   "label": "BERLINE 3PTES · 1.6 THP 16v 163 (EP6CDT M)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FKH",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FKH"
+   },
+   "label": "BERLINE 3PTES · 1.6 THP 16v 163 (EP6FDT)"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FAX",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FAX"
+   },
+   "label": "BERLINE 3PTES · 1.6 THP 16v 200"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FCA"
+   },
+   "label": "BERLINE 3PTES · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FLA",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FLA"
+   },
+   "label": "BERLINE 3PTES · DIESEL TURBO DV6FC FAP 85KW"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FKD"
+   },
+   "label": "BERLINE 3PTES · DIESEL TURBO DV6FC FAP 88KW"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FKE",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FKE"
+   },
+   "label": "BERLINE 3PTES · DIESEL TURBO DV6FD FAP"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FKM",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FKM"
+   },
+   "label": "BERLINE 3PTES · DIESEL TURBO DV6FE FAP"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FCQ",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FCQ"
+   },
+   "label": "BERLINE 3PTES · INJECTION EB2DT"
+  },
+  {
+   "key": "B0D=B0DA3&B0F=B0FKQ",
+   "selections": {
+    "B0D": "B0DA3",
+    "B0F": "B0FKQ"
+   },
+   "label": "BERLINE 3PTES · INJECTION EB2F"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FCG",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FCG"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · 1.2 i VTi (EB2)"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FBF"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FCC"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FKH",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FKH"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · 1.6 THP 16v 163 (EP6FDT)"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FAX",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FAX"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · 1.6 THP 16v 200"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FCA"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FLA",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FLA"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · DIESEL TURBO DV6FC FAP 85KW"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FKD"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · DIESEL TURBO DV6FC FAP 88KW"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FKE",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FKE"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · DIESEL TURBO DV6FD FAP"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FCQ",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FCQ"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · INJECTION EB2DT"
+  },
+  {
+   "key": "B0D=B0DB3&B0F=B0FKQ",
+   "selections": {
+    "B0D": "B0DB3",
+    "B0F": "B0FKQ"
+   },
+   "label": "BERLINE DECOUVRABLE 3 PORTES · INJECTION EB2F"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "012006236051A",
+ "refDisplay": "0120 06 236051A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "BVM MA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0009"
+  }
+ ]
+}

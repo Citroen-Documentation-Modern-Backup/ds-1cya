@@ -1,0 +1,18 @@
+{
+ "ref": "012002532050C",
+ "refDisplay": "0120 02 532050C",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION ET AVEC STOP AND START",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0303"
+  }
+ ]
+}

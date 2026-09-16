@@ -1,0 +1,18 @@
+{
+ "ref": "012003434312A",
+ "refDisplay": "0120 03 434312A",
+ "title": "AMORTISSEURS SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 13208",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCT",
+   "fctId": "FCT0032"
+  }
+ ]
+}

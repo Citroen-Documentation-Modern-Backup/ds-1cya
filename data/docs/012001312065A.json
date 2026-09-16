@@ -1,0 +1,23 @@
+{
+ "ref": "012001312065A",
+ "refDisplay": "0120 01 312065A",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS STT ET BVM MC DEPUIS DATE 20120305",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0016"
+  }
+ ]
+}

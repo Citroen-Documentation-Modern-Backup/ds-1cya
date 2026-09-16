@@ -1,0 +1,24 @@
+{
+ "ref": "1CYA01701804",
+ "refDisplay": "1CYA 0 170 1804",
+ "title": "ACTIONNEUR EMBRAYAGE BVMP",
+ "nature": "",
+ "applicability": "(Q00E) DS3 BERLINE 3PTES DIESEL TURBO DV4C BVM PILOTEE 5 RAPPORTS STT",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FCB",
+   "fctId": "FCT0017"
+  }
+ ]
+}

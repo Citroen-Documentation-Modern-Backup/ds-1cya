@@ -1,0 +1,19 @@
+{
+ "ref": "1CYA029150K",
+ "refDisplay": "1CYA 0 29 150K",
+ "title": "TUYAU ALIMENTATION ADDITIF FAP",
+ "nature": "",
+ "applicability": "(Q006) DS3 BERLINE 3PTES DIESEL TURBO DV6C BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0010"
+  }
+ ]
+}

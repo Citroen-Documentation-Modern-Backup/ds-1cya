@@ -1,0 +1,145 @@
+{
+ "ref": "B3DJ010AP0",
+ "refDisplay": "B3DJ010AP0",
+ "title": "Remise en état : tambour de frein arrière",
+ "nature": "Remise en état",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBD",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FTB",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FTB",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS3",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS3",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS1",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS1",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FTB",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FTB",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FS3",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FS3",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0041"
+  }
+ ]
+}
