@@ -1,18 +1,1 @@
-{
- "ref": "012006236087A",
- "refDisplay": "0120 06 236087A",
- "title": "BOITIER EAU - THERMOCONTACT - SONDE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FCL",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"012006236087A","refDisplay":"0120 06 236087A","title":"BOITIER EAU - THERMOCONTACT - SONDE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FCL","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CYA)(B0FCL)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000056"},[]],["thesaurus",{"type":"10","code":"000399"},[]],["thesaurus",{"type":"10","code":"011840"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["thesaurus",{"type":"10","code":"012458"},[]],["thesaurus",{"type":"10","code":"000516"},[]],["thesaurus",{"type":"10","code":"014261"},[]],["thesaurus",{"type":"21","code":"L0344854"},[]],["mpr",{"catal":"0120","grp":"59","grp2":"06","maj":"20110723","numfich":"236087A"},[["appl",{},["{(?1CYA)(B0FCL)}"]],["sti",{"ident":"5901"},[]],["img",{"numfich":"00087918","path":"/img/pr/18/0008/00087918.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000056","ref":"00001336CC","refpg":"1336 CC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]],["obsligne",{"ident":"L0344854"},[]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"88, 327, 11","shape":"circle"},[]],["area",{"coords":"52, 91, 11","shape":"circle"},[]],["area",{"coords":"90, 262, 11","shape":"circle"},[]],["area",{"coords":"119, 426, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000399","ref":"0000134088","refpg":"1340 88"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"52, 91, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"011840","ref":"0000134089","refpg":"1340 89"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"90, 262, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"006815","ref":"0000013256","refpg":"0132 56"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-35"]]]],["prremp",{"coef":"01","palges":"P","ref":"9644862280","refpg":"96 448 622 80"},[]]]],["interactivite",{"order":"03"},[["area",{"coords":"243, 409, 11","shape":"circle"},[]],["area",{"coords":"419, 278, 11","shape":"circle"},[]],["area",{"coords":"330, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"012458","ref":"00001338G0","refpg":"1338 G0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-28-23-13"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"386, 6, 11","shape":"circle"},[]],["area",{"coords":"385, 156, 11","shape":"circle"},[]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"000516","ref":"00001306J8","refpg":"1306 J8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"230, 113, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"014261","ref":"00006936A0","refpg":"6936 A0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-6-10"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"418, 175, 11","shape":"circle"},[]],["area",{"coords":"438, 6, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "012006175525A",
- "refDisplay": "0120 06 175525A",
- "title": "DEPOLLUTION CANISTER ABSORBEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FCL",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"012006175525A","refDisplay":"0120 06 175525A","title":"DEPOLLUTION CANISTER ABSORBEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FCL","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CYA)(B0FCL)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000001"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0120","grp":"53","grp2":"06","maj":"20120308","numfich":"175525A"},[["appl",{},["{(?1CYA)(B0FCL)}"]],["sti",{"ident":"5301"},[]],["img",{"numfich":"00094590","path":"/img/pr/90/0009/00094590.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000001","ref":"00001502K3","refpg":"1502 K3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"136, 139, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"006142","ref":"00001507H0","refpg":"1507 H0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"111, 43, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006142","ref":"0000693635","refpg":"6936 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"48, 285, 11","shape":"circle"},[]]]]]]]]]]}

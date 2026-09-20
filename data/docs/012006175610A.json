@@ -1,18 +1,1 @@
-{
- "ref": "012006175610A",
- "refDisplay": "0120 06 175610A",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FCB",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"012006175610A","refDisplay":"0120 06 175610A","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FCB","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CYA)(B0FCB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"006112"},[]],["mpr",{"catal":"0120","grp":"54","grp2":"06","maj":"20120906","numfich":"175610A"},[["appl",{},["{(?1CYA)(B0FCB)}"]],["sti",{"ident":"5401"},[]],["img",{"numfich":"00081342","path":"/img/pr/42/0008/00081342.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","ref":"00001618LL","refpg":"1618 LL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 320 7,5W"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"258, 185, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000627","ref":"00001618V3","refpg":"1618 V3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AVAL"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"299, 420, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006112","ref":"000016289L","refpg":"1628 9L"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"409, 336, 11","shape":"circle"},[]],["area",{"coords":"385, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006112","ref":"00001618H2","refpg":"1618 H2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6T 8"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"441, 6, 11","shape":"circle"},[]],["area",{"coords":"249, 333, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "012001330060A",
- "refDisplay": "0120 01 330060A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MA PILOTEE ET BVM PILOTEE 5 RAPPORTS STT ET CP 17 X 64",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FBD",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"012001330060A","refDisplay":"0120 01 330060A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MA PILOTEE ET BVM PILOTEE 5 RAPPORTS STT ET CP 17 X 64","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FBD","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CYA)(B0FBD)(DVQ14)(B0G0V)(DCW44)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["mpr",{"catal":"0120","grp":"67","grp2":"01","maj":"20110723","numfich":"330060A"},[["appl",{},["{(?1CYA)(B0FBD)(DVQ14)(B0G0V)(DCW44)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00086326","path":"/img/pr/26/0008/00086326.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002231V0","refpg":"2231 V0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP(17X64)"]]]],["reporg",{},[["monte",{},["(CQ97)"]],["monte",{},["CQ97"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"126, 96, 11","shape":"circle"},[]]]]]]]]]]}

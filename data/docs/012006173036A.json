@@ -1,18 +1,1 @@
-{
- "ref": "012006173036A",
- "refDisplay": "0120 06 173036A",
- "title": "CANALISATION FIX FILTRE CARBURANT",
- "nature": "",
- "applicability": "FILTRE RESERVOIR EXTERIEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FCL",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"012006173036A","refDisplay":"0120 06 173036A","title":"CANALISATION FIX FILTRE CARBURANT","nature":"","applicability":"FILTRE RESERVOIR EXTERIEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FCL","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CYA)(B0FCL)(DXF01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000587"},[]],["thesaurus",{"type":"10","code":"000321"},[]],["thesaurus",{"type":"10","code":"006116"},[]],["thesaurus",{"type":"10","code":"000104"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0120","grp":"40","grp2":"06","maj":"20120309","numfich":"173036A"},[["appl",{},["{(?1CYA)(B0FCL)(DXF01)}"]],["sti",{"ident":"4001"},[]],["img",{"numfich":"00094588","path":"/img/pr/88/0009/00094588.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000587","ref":"00001574FK","refpg":"1574 FK"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"115, 505, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000587","ref":"00001574EW","refpg":"1574 EW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"275, 252, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000321","ref":"00001567C6","refpg":"1567 C6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"52, 270, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006116","ref":"00001574EV","refpg":"1574 EV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"330, 172, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000104","ref":"00001568A2","refpg":"1568 A2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"68, 386, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004667","ref":"0000694779","refpg":"6947 79"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X22-2,5"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"382, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"006142","ref":"0000693635","refpg":"6936 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125"]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"438, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"74"},[["pr",{"codesi":"004647","ref":"00006997J4","refpg":"6997 J4"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2T-13-13"]]]]]],["interactivite",{"order":"08"},[["area",{"coords":"275, 337, 11","shape":"circle"},[]]]]]]]]]]}

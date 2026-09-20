@@ -1,18 +1,1 @@
-{
- "ref": "012001002222A",
- "refDisplay": "0120 01 002222A",
- "title": "CACHE MOTEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FCL",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"012001002222A","refDisplay":"0120 01 002222A","title":"CACHE MOTEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FCL","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CYA)(B0FCL)}","tree":["document",{},[["thesaurus",{"type":"10","code":"011724"},[]],["mpr",{"catal":"0120","grp":"99","grp2":"01","maj":"20110723","numfich":"002222A"},[["appl",{},["{(?1CYA)(B0FCL)}"]],["sti",{"ident":"9901"},[]],["img",{"numfich":"00055221","path":"/img/pr/21/0005/00055221.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"011724","ref":"00000137H3","refpg":"0137 H3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"314, 191, 11","shape":"circle"},[]]]]]]]]]]}

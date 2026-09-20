@@ -1,18 +1,1 @@
-{
- "ref": "012001172020A",
- "refDisplay": "0120 01 172020A",
- "title": "ECHANGEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FAW",
-   "fctId": "FCT0014"
-  }
- ]
-}
+{"ref":"012001172020A","refDisplay":"0120 01 172020A","title":"ECHANGEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FAW","fctId":"FCT0014"}],"kind":"pr","appl":"{(?1CYA)(B0FAW)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000256"},[]],["thesaurus",{"type":"10","code":"010779"},[]],["thesaurus",{"type":"10","code":"010138"},[]],["mpr",{"catal":"0120","grp":"56","grp2":"01","maj":"20121126","numfich":"172020A"},[["appl",{},["{(?1CYA)(B0FAW)}"]],["sti",{"ident":"5601"},[]],["img",{"numfich":"00078677","path":"/img/pr/77/0007/00078677.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000256","ref":"00001440P8","refpg":"1440 P8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"118, 114, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"010779","ref":"00001312A3","refpg":"1312 A3"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF DIAM 10X12X18-23"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"133, 482, 11","shape":"circle"},[]],["area",{"coords":"294, 466, 11","shape":"circle"},[]],["area",{"coords":"279, 89, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010138","ref":"00000384J5","refpg":"0384 J5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)/($,,1,12256)/}"]]]]]],["pr",{"codesi":"010138","ref":"00001312C5","refpg":"1312 C5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)/($1,12257,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 38 EP 21"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"286, 27, 11","shape":"circle"},[]]]]]]]]]]}

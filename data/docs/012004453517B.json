@@ -1,18 +1,1 @@
-{
- "ref": "012004453517B",
- "refDisplay": "0120 04 453517B",
- "title": "MAITRE CYLINDRE RESERVOIR",
- "nature": "",
- "applicability": " DEPUIS OPR 12999 JUSQU’A OPR 13341",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FCT",
-   "fctId": "FCT0045"
-  }
- ]
-}
+{"ref":"012004453517B","refDisplay":"0120 04 453517B","title":"MAITRE CYLINDRE RESERVOIR","nature":"","applicability":" DEPUIS OPR 12999 JUSQU’A OPR 13341","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FCT","fctId":"FCT0045"}],"kind":"pr","appl":"{(?1CYA)(B0FCT)/($1,12999,1,13341)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001410"},[]],["thesaurus",{"type":"10","code":"006427"},[]],["thesaurus",{"type":"10","code":"001028"},[]],["thesaurus",{"type":"10","code":"006242"},[]],["thesaurus",{"type":"10","code":"014904"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["mpr",{"catal":"0120","grp":"238","grp2":"04","maj":"20130225","numfich":"453517B"},[["appl",{},["{(?1CYA)(B0FCT)/($1,12999,1,13341)/}"]],["sti",{"ident":"23801"},[]],["enssup",{},[["fourn",{},["45569F"]]]],["img",{"numfich":"00056822","path":"/img/pr/22/0005/00056822.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001410","ref":"00004601R7","refpg":"4601 R7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)(DQH05)(DUF01)}"]],["reffour",{},[["four",{},["77899X  01"]]]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 22,2"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"224, 435, 11","shape":"circle"},[]],["area",{"coords":"91, 374, 11","shape":"circle"},[]],["area",{"coords":"320, 402, 11","shape":"circle"},[]],["area",{"coords":"95, 291, 11","shape":"circle"},[]],["area",{"coords":"150, 387, 11","shape":"circle"},[]],["area",{"coords":"438, 6, 11","shape":"circle"},[]],["area",{"coords":"122, 452, 11","shape":"circle"},[]],["area",{"coords":"261, 296, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006427","ref":"00004635E8","refpg":"4635 E8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"219, 101, 11","shape":"circle"},[]],["area",{"coords":"95, 291, 11","shape":"circle"},[]],["area",{"coords":"261, 296, 11","shape":"circle"},[]],["area",{"coords":"298, 44, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001028","ref":"0000464346","refpg":"4643 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"82, 30, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006242","ref":"0000464420","refpg":"4644 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"46, 172, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"014904","ref":"0000464706","refpg":"4647 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"166, 61, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004654","ref":"00006939C2","refpg":"6939 C2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"224, 435, 11","shape":"circle"},[]],["area",{"coords":"91, 374, 11","shape":"circle"},[]],["area",{"coords":"438, 6, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "012001114351A",
- "refDisplay": "0120 01 114351A",
- "title": "CARTER DE DISTRIBUTION BOUCHONS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FBD",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"012001114351A","refDisplay":"0120 01 114351A","title":"CARTER DE DISTRIBUTION BOUCHONS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FBD","fctId":"FCT0007"}],"kind":"pr","appl":"{(?1CYA)(B0FBD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001514"},[]],["thesaurus",{"type":"22","code":"P0012909"},[]],["thesaurus",{"type":"21","code":"L1922222"},[]],["mpr",{"catal":"0120","grp":"14","grp2":"01","maj":"20121130","numfich":"114351A"},[["appl",{},["{(?1CYA)(B0FBD)}"]],["sti",{"ident":"1401"},[]],["obspage",{"ident":"P0012909"},[]],["img",{"numfich":"00082883","path":"/img/pr/83/0008/00082883.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001514","ref":"00000320CC","refpg":"0320 CC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)/($,,1,12809)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]],["prremp",{"coef":"01","palges":"P","ref":"00000320CJ","refpg":"0320 CJ"},[]]]],["pr",{"codesi":"001514","ref":"00000320CG","refpg":"0320 CG"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)/($1,12810,1,13175)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]],["prremp",{"coef":"01","palges":"P","ref":"9801999480","refpg":"98 019 994 80"},[]]]],["pr",{"codesi":"001514","ref":"9801999480","refpg":"98 019 994 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)/($1,13176,,)/}"]],["obsligne",{"ident":"L1922222"},[]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"250, 391, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001514","ref":"00000320AJ","refpg":"0320 AJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"71, 64, 11","shape":"circle"},[]]]]]]]]]]}

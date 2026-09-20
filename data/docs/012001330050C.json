@@ -1,18 +1,1 @@
-{
- "ref": "012001330050C",
- "refDisplay": "0120 01 330050C",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MC ET BVM6 ET BVM MCB ET CP 16 X 57 DEPUIS OPR 12684",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FAW",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"012001330050C","refDisplay":"0120 01 330050C","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MC ET BVM6 ET BVM MCB ET CP 16 X 57 DEPUIS OPR 12684","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FAW","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CYA)(B0FAW)(DVQ21)(B0G06)(DBMAB)(DCW63)/($1,12684,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0120","grp":"67","grp2":"01","maj":"20110723","numfich":"330050C"},[["appl",{},["{(?1CYA)(B0FAW)(DVQ21)(B0G06)(DBMAB)(DCW63)/($1,12684,,)/}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00085312","path":"/img/pr/12/0008/00085312.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002231Y4","refpg":"2231 Y4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X57"]]]],["reporg",{},[["monte",{},["EA27"]],["monte",{},["(EABG)"]],["monte",{},["EA17"]],["monte",{},["(EAAG)"]]]]]],["pr",{"codesi":"009391","ref":"00002232Z4","refpg":"2232 Z4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X57"]]]],["reporg",{},[["monte",{},["EABG"]],["monte",{},["EA27"]],["monte",{},["(EAB7)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"318, 73, 11","shape":"circle"},[]]]]]]]]]]}

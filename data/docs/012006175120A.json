@@ -1,18 +1,1 @@
-{
- "ref": "012006175120A",
- "refDisplay": "0120 06 175120A",
- "title": "TUBULURE REMPLISSAGE DE CARBURANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FCT",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"012006175120A","refDisplay":"0120 06 175120A","title":"TUBULURE REMPLISSAGE DE CARBURANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FCT","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CYA)(B0FCT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"010874"},[]],["thesaurus",{"type":"10","code":"008020"},[]],["thesaurus",{"type":"10","code":"000456"},[]],["thesaurus",{"type":"10","code":"007981"},[]],["mpr",{"catal":"0120","grp":"30","grp2":"06","maj":"20110723","numfich":"175120A"},[["appl",{},["{(?1CYA)(B0FCT)}"]],["sti",{"ident":"3001"},[]],["img",{"numfich":"00090457","path":"/img/pr/57/0009/00090457.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"010874","ref":"1607217280","refpg":"16 072 172 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"126, 449, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"010874","ref":"1607217380","refpg":"16 072 173 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"111, 282, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010874","ref":"1607217480","refpg":"16 072 174 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"28, 382, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"008020","ref":"1606647680","refpg":"16 066 476 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"364, 189, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000456","ref":"1606862080","refpg":"16 068 620 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"392, 172, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"007981","ref":"1606648180","refpg":"16 066 481 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"284, 170, 11","shape":"circle"},[]]]]]]]]]]}

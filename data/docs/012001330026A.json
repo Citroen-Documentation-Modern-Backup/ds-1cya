@@ -1,18 +1,1 @@
-{
- "ref": "012001330026A",
- "refDisplay": "0120 01 330026A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MA5 / O ET CP 17 X 64",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CYA",
-   "variantKey": "B0D=B0DA3&B0F=B0FBD",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"012001330026A","refDisplay":"0120 01 330026A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MA5 / O ET CP 17 X 64","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CYA","variantKey":"B0D=B0DA3&B0F=B0FBD","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CYA)(B0FBD)(DBM46)(DCW44)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"10","code":"003234"},[]],["mpr",{"catal":"0120","grp":"67","grp2":"01","maj":"20110723","numfich":"330026A"},[["appl",{},["{(?1CYA)(B0FBD)(DBM46)(DCW44)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00083576","path":"/img/pr/76/0008/00083576.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002222YR","refpg":"2222 YR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X64 CT(21X18)"]]]],["reporg",{},[["monte",{},["(CQ66)"]],["monte",{},["CQ66"]]]]]],["pr",{"codesi":"009391","ref":"0000223251","refpg":"2232 51"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X64 CT(21X18)"]]]],["reporg",{},[["monte",{},["(CQF6)"]],["monte",{},["CQF6"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"61, 73, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003234","ref":"0000973641","refpg":"9736 41"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CYA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["75W80-EZL848-2L"]]]],["prremp",{"coef":"01","palges":"P","ref":"00009730AA","refpg":"9730 AA"},[]]]],["interactivite",{"order":"02"},[["area",{"coords":"339, 383, 11","shape":"circle"},[]]]]]]]]]]}
